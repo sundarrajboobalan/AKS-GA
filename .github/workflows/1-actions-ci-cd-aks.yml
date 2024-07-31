@@ -18,8 +18,8 @@ jobs:
       IMAGE_NAME: webapp
       IMAGE_TAG: ${{ github.run_number }} # $GITHUB_RUN_NUMBER
       
-      CLUSTER_NAME: niqaks
-      RESOURCE_GROUP: niqaks
+      CLUSTER_NAME: githubaks
+      RESOURCE_GROUP: githubaks
     
     steps:
 
