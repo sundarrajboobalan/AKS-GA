@@ -1,4 +1,4 @@
-name: 4-actions-ci-cd-aks-tf-backend-jobs
+name: 4-actions-ci-cd-aks-tf-backend-job
 
 on:
   push:
