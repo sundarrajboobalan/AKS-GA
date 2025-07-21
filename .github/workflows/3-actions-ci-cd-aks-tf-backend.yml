@@ -1,4 +1,4 @@
-name: 3-actions-ci-cd-aks-tf-backend
+name: 3-actions-ci-cd-aks-tf-Backend
 
 on:
   push:
